@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Shark Cards",
+    "image": "🦈",
+    "game": "GTA Online",
+    "company": "Rockstar Games, Inc.",
+    "quantity": "250K 🦈",
+    "price": "4.50",
+    "sale": true,
+    "description": "Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character's bank account. Spend wisely, cash therapy is fleeting."
+  },
+  {
+    "id": 1,
+    "productName": "Platinum Coins",
+    "image": "🪙",
+    "game": "Diablo 4",
+    "company": "Blizzard Entertainment, Inc.",
+    "quantity": "200 🪙",
+    "price": "1.99",
+    "sale": false,
+    "description": "Platinum can be exchanged to customize your in-game experience with purchasable cosmetic items from the Shop, used to unlock access to the premium Battle Pass, and Battle Pass Tier Skips. Players can purchase Platinum for local currency and can earn limited amounts through premium Battle Pass rewards. Players have a single Platinum balance across all platforms which can be spent regardless of the platform it was purchased on."
+  },
+  {
+    "id": 2,
+    "productName": "Overwatch Tokens",
+    "image": "🟡",
+    "game": "Overwatch 2",
+    "company": "Blizzard Entertainment, Inc.",
+    "quantity": "100 🟡",
+    "price": "4.00",
+    "sale": true,
+    "description": "Overwatch Coins are the in-game currency used in Overwatch 2. With your Overwatch Coins, you can buy the Premium Battle Pass and in-game cosmetic items to customize your heroes. Owners of the Premium Battle Pass can also use Overwatch Coins to unlock Tiers and instantly access Legendary and Mythic content."
+  },
+  {
+    "id": 3,
+    "productName": "Riot Points",
+    "image": "🛡️",
+    "game": "League of Legends",
+    "company": "Riot Games, Inc.",
+    "quantity": "575 🛡️",
+    "price": "4.00",
+    "sale": true,
+    "description": "Riot Point (RP) is one of the primary currencies used to unlock League of Legends content, the other being Blue Essence. Riot Points are purchased with real-world currency, and are only used in the Riot Store. Riot Points cannot be used to directly affect gameplay."
+  },
+  {
+    "id": 4,
+    "productName": "V-BUCKS",
+    "image": "🦌",
+    "game": "Fortnite",
+    "company": "Epic Games, Inc.",
+    "quantity": "1K 🦌",
+    "price": "7.99",
+    "sale": false,
+    "description": "An Epic Games account is required to redeem a V-Bucks Card code. If you have played Fortnite, you already have an Epic Games account. Click Get Started below to find your Epic Games account and redeem your V-Bucks!"
+  }
+]
